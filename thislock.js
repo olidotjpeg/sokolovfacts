@@ -1,7 +1,8 @@
 var facts = [
   "Anton Sokolov made this lock",
-  "How many lovely sokolov locks would a sucky sokolov lock if a sucky sokolov locked lovely sokolov locks?"
-]
+  "How many lovely sokolov locks would a sucky sokolov lock if a sucky sokolov locked lovely sokolov locks?",
+  "Anton Sokolov - THE MAN, THE MYTH, THE LEGEND"
+];
 
 var factLength = facts.length;
 
