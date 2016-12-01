@@ -1,7 +1,13 @@
+body {
+	width: 100%;
+	height: 100vh;
+	background: url('./antonbro.png')
+}
+
 .wrapper {
 	width: 100%;
 	height: 100vh;
-	background: #fafafa;
+	color: #fff;
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
