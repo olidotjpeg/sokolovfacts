@@ -12,12 +12,12 @@ const facts = [
   'Lock me up, lock me up inside!'
 ]
 
-var factLength = facts.length;
-
-var result = facts[Math.floor(Math.random() * factLength)]
+const factLength = facts.length;
+// Sorry TChopsSan
+const result = facts[Math.floor(Math.random() * factLength)]
 
 function anton() {
-		document.getElementById('facts').innerHTML = result;
-	}
+    document.getElementById('facts').innerHTML = result;
+}
 
 anton();
